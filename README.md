@@ -45,16 +45,16 @@ Upgraded an Acer laptop by replacing the battery, upgrading the RAM to 8GB, and 
 - Driver installation
 - System verification and testing
 
-- ## Project Photos
+## Project Photos
 
 ### Laptop Disassembly
-
+![Laptop Disassembly](20260510_103812.jpg)
 
 ### Internal Hardware Components
-![Internal Components](IMAGE_NAME_HERE)
+![Internal Components](20260510_113900.jpg)
 
 ### Battery Replacement
-![Battery Replacement](IMAGE_NAME_HERE)
+![Battery Replacement](20260510_115120.jpg)
 
 ### Windows 11 Installation
-![Windows 11 Installation](IMAGE_NAME_HERE)
+![Windows 11 Installation](20260517_202325.jpg)

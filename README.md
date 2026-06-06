@@ -48,7 +48,7 @@ Upgraded an Acer laptop by replacing the battery, upgrading the RAM to 8GB, and 
 - ## Project Photos
 
 ### Laptop Disassembly
-![Laptop Disassembly](IMAGE_NAME_HERE)
+
 
 ### Internal Hardware Components
 ![Internal Components](IMAGE_NAME_HERE)
